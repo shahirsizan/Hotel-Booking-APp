@@ -2,8 +2,10 @@
 client/node_modules
 client/.env
 
+
 # API
 api/node_modules
+api/uploads
 api/.env
 
 # General
